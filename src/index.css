@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+body {
+  font-family: "Bebas Neue", cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  margin: 0;
+  background-color: blue;
+  background-image: url("https://miro.medium.com/max/1225/1*TCs1_KP3xoZIC2P0c_Owlw.png");
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  background-repeat: repeat-y;
+}
